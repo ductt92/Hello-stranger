@@ -1,8 +1,6 @@
 import { TypeAnimation } from 'react-type-animation';
 
 import { stringHtml } from '@/utils/ultils';
-import { useEffect, useRef } from 'react';
-import ReactAudioPlayer from 'react-audio-player';
 import { useRouter } from 'next/router';
 
 const HomePage = () => {
