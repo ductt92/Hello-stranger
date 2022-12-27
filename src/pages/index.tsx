@@ -30,22 +30,6 @@ const HomePage = () => {
 
       <div className='snowflake'>❆</div>
 
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❆</div>
-
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❄</div>
-
-      <div className='snowflake'>❅</div>
-
       <div
         dangerouslySetInnerHTML={{ __html: stringHtml }}
         className='h-[70vh] w-screen text-center'
