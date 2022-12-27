@@ -25,11 +25,7 @@ const NextStep = () => {
       <div className='abc h-[640px] w-[360px] '>
         <div className='snowCss w-full text-center'>
           <p className='bg-[#41bdf4] text-[#fff]'>
-            I know we haven’t known much about each other, but I want to give a
-            small present which I had to struggle to do it. And I know it’s not
-            really impressive to you, but I hope you like it. Merry Christmas,
-            my new friend. Hope to know you more ^^ LOL if you like this small
-            gift.
+            Merry Christmas, my new friend.
           </p>
         </div>
       </div>
