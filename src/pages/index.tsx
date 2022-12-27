@@ -53,22 +53,26 @@ const HomePage = () => {
       <div className='h-[30vh]'>
         <TypeAnimation
           sequence={[
-            `Knock! Knock! I'm Santa Baby 🎅😝🎅 `,
+            `Knock! Knock! I'm Santa Babyyyy 🎅😝🎅 `,
             DURATION,
             'I know we haven’t known much about each other',
             DURATION,
-            'but I want to give a small present which I had to struggle to do it.',
+            'But I want to give you a small present ',
             DURATION,
-            'And I know this may not really impressive to you, but I hope you like it.',
+            'which I had to struggle to do it ',
             DURATION,
-            'Merry Christmas, my new friend.',
+            'And I know this may not really impressive to you',
             DURATION,
-            'Hope to know you more ^^ LOL if you like this small gift.',
+            `But I've made this with all my heart 😗😗`,
+            DURATION,
+            'Merry Christmas, my new friend 🤝💗💗💗',
+            DURATION,
+            'Hope to know you more ^^ LOL if you like this small gift 😆😆',
             DURATION,
           ]}
-          speed={65}
+          speed={55}
           wrapper='h2'
-          className='snowCss text-center text-xl text-[#f5576c]'
+          className='snowCss text-center text-xl text-[#FF8E9E]'
           repeat={Infinity}
         />
       </div>
